@@ -1,0 +1,23 @@
+{
+    "name": "fda",
+    "title": "Fil d'argent",
+    "description": "Fil d'argent pour FoundryVTT!",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.10",
+    "templateVersion": 2,
+    "author": "Sphins",
+    "esmodules": ["module/fda.js"],
+    "styles": ["css/fda.css"],
+    "scripts": [],
+    "packs": [],
+    "languages": [],
+    "gridDistance": 1,
+    "gridUnits": "m",
+    "primaryTokenAttribute": "",
+    "secondaryTokenAttribute": "",
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "license": "LICENSE.txt"
+}

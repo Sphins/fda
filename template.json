@@ -1,0 +1,34 @@
+{
+    "Actor": {
+        "types": ["PJ"],
+
+        "PJ": {
+            "age": "21",
+            "origine": "brésil",
+            "profession": "docteur",
+            "posture": "stoique",
+            "ombre": "orgeuil",
+            "description": "age,signe distinctif,...",
+            "equipement": "Possesion du joueur",
+            "sante": "3d20",
+            "corps": {
+                "athletisme": "3d20+2",
+                "charisme": "3d20+2",
+                "coordination": "3d20+2",
+                "habilité": "3d20+2",
+                "instinct": "3d20+2",
+                "reflexes": "3d20+2",
+                "resistance": "3d20+2",
+                "vision": "3d20+2"
+            }
+
+        }
+    },
+    "Item": {
+        "types": ["hote"],
+        "hote": {
+            "degats": "1d+2",
+            "portee": "5"
+        }
+    }
+}
